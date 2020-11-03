@@ -2,3 +2,4 @@
 基本的なワークフローを学びます
 
 fafaffafafa
+.git rm ファイル名
