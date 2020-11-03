@@ -1,6 +1,4 @@
 初めてのGitです
 基本的なワークフローを学びます
 
-kaihatu
-kannkyou
-
+fafaffafafa
