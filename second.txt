@@ -5,3 +5,4 @@
 よろしくお願いいたします
 git diff
 git diff --staged
+git　新しうブランチを追加しました
